@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+bin/
+*.class
+out/
+target/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
